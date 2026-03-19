@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Roberto
 
-<!--
-**robertoceb/robertoceb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Level 2 SOC Security Analyst at Telefónica  
+💻 IT Specialist focused on automation, cybersecurity and knowledge systems  
+📊 Passionate about efficiency, workflows and data  
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity Focus
+- Security Operations (SOC)
+- Threat detection & analysis
+- Incident response
+- Continuous monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- Obsidian
+- GitHub
+- PowerShell
+
+## 🚀 Current Focus
+Building a secure and efficient knowledge management system using Obsidian + Git
+
+## 📫 Contact
+https://www.linkedin.com/in/roberto-ceballos-camarena-470368172/
+
