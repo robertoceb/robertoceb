@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roberto
 
-🔐 Level 2 SOC Security Analyst at Telefónica  
+🔐 Level 2 SOC Security Analyst @ Telefónica  
 💻 IT Specialist focused on automation, cybersecurity and knowledge systems  
 📊 Passionate about efficiency, workflows and data  
 
@@ -19,5 +19,5 @@
 Building a secure and efficient knowledge management system using Obsidian + Git
 
 ## 📫 Contact
-https://www.linkedin.com/in/roberto-ceballos-camarena-470368172/
+- LinkedIn: https://www.linkedin.com/in/roberto-ceballos-camarena-470368172/
 
